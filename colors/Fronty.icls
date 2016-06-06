@@ -447,8 +447,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="f8f8f0" />
-        <option name="BACKGROUND" value="f92672" />
+        <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
