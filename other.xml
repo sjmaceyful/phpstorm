@@ -16,6 +16,11 @@
     </entry>
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.0.0" last-modified="1461699691000" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache last-modified="0" />
+    </local-interpreter>
   </component>
 </application>
