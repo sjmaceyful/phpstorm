@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="php" type="HTML" />
       <mapping ext="cshtml" type="HTML" />
+      <mapping pattern=".accessibilityrc" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="web.config" type="XML" />
     </extensionMap>
