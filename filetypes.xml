@@ -1,14 +1,13 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="cshtml" type="HTML" />
-      <mapping ext="php" type="PHP" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern=".accessibilityrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".accessibilityrc" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
-      <mapping pattern="web.config" type="XML" />
       <mapping ext="liquid" type="Twig" />
+      <mapping pattern="web.config" type="XML" />
     </extensionMap>
   </component>
 </application>
