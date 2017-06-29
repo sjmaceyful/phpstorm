@@ -1,4 +1,5 @@
 <scheme name="Fronty" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -656,7 +657,6 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="GHERKIN_PYSTRING">
       <value>
         <option name="FOREGROUND" value="e6db74" />
@@ -726,6 +726,46 @@
     <option name="HAML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.COMMENTS">
+      <value>
+        <option name="FOREGROUND" value="75715e" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.DATA_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="af1cf9" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="ae81ff" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.IDENTIFIERS">
+      <value>
+        <option name="FOREGROUND" value="c5d527" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.MUSTACHES">
+      <value>
+        <option name="FOREGROUND" value="c5d527" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.STRINGS">
+      <value>
+        <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.VALUES">
+      <value>
+        <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
