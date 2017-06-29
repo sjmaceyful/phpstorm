@@ -745,12 +745,12 @@
     </option>
     <option name="HANDLEBARS.IDENTIFIERS">
       <value>
-        <option name="FOREGROUND" value="ff8500" />
+        <option name="FOREGROUND" value="b9d0" />
       </value>
     </option>
     <option name="HANDLEBARS.MUSTACHES">
       <value>
-        <option name="FOREGROUND" value="c5d527" />
+        <option name="FOREGROUND" value="ff8500" />
       </value>
     </option>
     <option name="HANDLEBARS.OPERATORS">
@@ -765,7 +765,7 @@
     </option>
     <option name="HANDLEBARS.VALUES">
       <value>
-        <option name="FOREGROUND" value="2697d0" />
+        <option name="FOREGROUND" value="a64cf9" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
