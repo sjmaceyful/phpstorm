@@ -735,7 +735,7 @@
     </option>
     <option name="HANDLEBARS.DATA_PREFIX">
       <value>
-        <option name="FOREGROUND" value="af1cf9" />
+        <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
     <option name="HANDLEBARS.ESCAPE">
@@ -745,7 +745,7 @@
     </option>
     <option name="HANDLEBARS.IDENTIFIERS">
       <value>
-        <option name="FOREGROUND" value="c5d527" />
+        <option name="FOREGROUND" value="ff8500" />
       </value>
     </option>
     <option name="HANDLEBARS.MUSTACHES">
@@ -765,7 +765,7 @@
     </option>
     <option name="HANDLEBARS.VALUES">
       <value>
-        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FOREGROUND" value="2697d0" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
