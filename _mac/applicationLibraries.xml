@@ -1,5 +1,21 @@
 <application>
   <component name="libraryTable">
+    <library name="ExtJS GPL-4.2" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="ExtJS 4.2" />
+        <option name="frameworkVersion" value="4.2.0" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.sencha.io_ext-4.2.0-gpl_ext-all-debug-w-comments.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.sencha.io_ext-4.2.0-gpl_ext-all-debug-w-comments.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://docs.sencha.com/extjs/4.2.0/#!/api" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
