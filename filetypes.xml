@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="page-values.php" type="PHP" />
       <mapping pattern="profile/image.php" type="PHP" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="page-vacancies.php" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="txr" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
