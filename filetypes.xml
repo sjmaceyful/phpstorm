@@ -7,6 +7,7 @@
       <mapping pattern="page-vacancies.php" type="PHP" />
       <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.staging" type="PLAIN_TEXT" />
       <mapping pattern=".modernizr.rc" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
