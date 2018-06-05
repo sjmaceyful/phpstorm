@@ -4,7 +4,7 @@
       <webServer id="dcc48f65-6a36-451d-b1e0-6dc23daab099" name="Connaught" url="http://devcon6.co.uk/">
         <fileTransfer host="devcon6.co.uk" port="21" rootFolder="/httpdocs">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
